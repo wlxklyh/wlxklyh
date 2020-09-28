@@ -1,5 +1,8 @@
 ### 👋简介
-游戏开发工程师后转音视频开发 安卓、ios终端开发。高级开发工程师。招聘android、ios开发工程师，游戏开发可内推。
+目前高级开发工程师。
+工作经历游戏开发工程师（Unity、Unreal、cocos creator），现转音视频开发、安卓、ios终端开发，业余对图形学、音视频有追求。
+招聘android、ios开发工程师，游戏开发可内推。
+
 [![wlxklyh's github stats](https://github-readme-stats.vercel.app/api?username=wlxklyh&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/)
 
 ### 👋语言
