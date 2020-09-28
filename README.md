@@ -1,4 +1,5 @@
 ### 👋简介
+游戏开发工程师后转音视频开发 安卓、ios终端开发。高级开发工程师。招聘android、ios开发工程师，游戏开发可内推。
 [![wlxklyh's github stats](https://github-readme-stats.vercel.app/api?username=wlxklyh&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/)
 
 ### 👋语言
