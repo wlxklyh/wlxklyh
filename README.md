@@ -1,6 +1,7 @@
 ### 👋简介
 高级开发工程师。
 工作经历：游戏开发工程师（Unity、Unreal、cocos creator），现转音视频开发、安卓、ios终端开发，技术兴趣图形学、音视频。
+欢迎star：https://github.com/wlxklyh/SoftRenderer
 
 招聘android、ios开发工程师，游戏开发可内推。
 
