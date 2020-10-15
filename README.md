@@ -1,9 +1,10 @@
 ### 👋简介
-高级开发工程师，兴趣和领域（Unity、Unreal、cocos creator、安卓终端开发、ios终端开发、音视频开发、图形学），欢迎加W：wlxklyh 探讨问题。
-（广告，欢迎star：https://github.com/wlxklyh/SoftRenderer）
+高级开发工程师，兴趣和领域（Unity、Unreal、cocos creator、安卓终端开发、ios终端开发、音视频开发、图形学），欢迎加W：wlxklyh，探讨交流问题。
+（欢迎star：https://github.com/wlxklyh/SoftRenderer）
+![](https://raw.githubusercontent.com/wlxklyh/book/master/Tool/Resource/wcgif.gif)
 
-招聘android、ios开发工程师，游戏开发可内推。
 
+### 👋仓库总览
 [![wlxklyh's github stats](https://github-readme-stats.vercel.app/api?username=wlxklyh&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/)
 
 ### 👋语言
