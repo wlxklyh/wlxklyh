@@ -3,7 +3,6 @@
 （欢迎star：https://github.com/wlxklyh/SoftRenderer ）
 <br></br>
 ![](https://raw.githubusercontent.com/wlxklyh/book/master/Tool/Resource/wcgif.gif)
-![](https://raw.githubusercontent.com/wlxklyh/imagebed/master/imageforvscode/20201209124248.png)
 
 ### 👋仓库总览
 [![wlxklyh's github stats](https://github-readme-stats.vercel.app/api?username=wlxklyh&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/)
