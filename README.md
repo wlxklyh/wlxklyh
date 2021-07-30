@@ -23,7 +23,7 @@
 
 🧑‍💻**讨论会** （语音讲解一些游戏开发的知识，或者是源码走读 备注 github讲解）
 1. 软光栅仓库讲解 https://github.com/wlxklyh/SoftRenderer
-2. Unreal SOC代码走读 
+2. Unreal SOC代码走读 https://github.com/wlxklyh/awesome-gamedev/tree/main/demo/VS/unrealsoc
 3. Unreal 序列化 反序列化 代码走读
 4. Unreal Lightmass流程代码走读
 5. Unity Progressive 使用讲解
