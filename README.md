@@ -26,16 +26,17 @@
 🧑‍💻**讨论会** （语音讲解一些游戏开发的知识，或者是源码走读 备注 github讲解）
 1. 软光栅仓库讲解 https://github.com/wlxklyh/SoftRenderer
 2. Unreal SOC代码走读 https://github.com/wlxklyh/awesome-gamedev/tree/main/demo/VS/unrealsoc
-3. Unreal 序列化 反序列化 代码走读
-4. Unreal Lightmass流程代码走读
-5. Unity Progressive 使用讲解
-6. Unity AB引用计数方案讲解
-7.  
+3. Unreal Hiz occlusion 代码走读
+4. Unreal 序列化 反序列化 代码走读
+5. Unreal Lightmass流程代码走读
+6. Unity Progressive 使用讲解
+7. Unity AB引用计数方案讲解
+8. IndirectDraw探讨
+9. 
 
 :coffee:**线下吃饭、喝奶茶、闲聊**（如果有兴趣请联系微信 备注 github面基）：
 1. 目前可以约深圳、广州面基。
 2. 互相探讨 不喜勿喷。
-
 
 
 ### 👋仓库总览
@@ -48,8 +49,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=SoftRenderer&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/SoftRenderer)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=awesome-gamedev&theme=tokyonight&show_icons=true)](hhttps://github.com/wlxklyh/awesome-gamedev)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=OpenglesStudy&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/OpenglesStudy)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=FFMpegStudy&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/FFMpegStudy)
 
