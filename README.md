@@ -48,8 +48,12 @@
 ### 👋开源项目
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=SoftRenderer&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/SoftRenderer)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=RookieRenderer&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/RookieRenderer)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=StudyOpenGLVulkanDXMetal&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/StudyOpenGLVulkanDXMetal)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=awesome-gamedev&theme=tokyonight&show_icons=true)](hhttps://github.com/wlxklyh/awesome-gamedev)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=FFMpegStudy&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/FFMpegStudy)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wlxklyh&repo=picToCharcoal&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/picToCharcoal)
+
