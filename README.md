@@ -35,7 +35,10 @@ https://docs.qq.com/mind/DSG1Oc0JNSlR2eFhz<br></br>
 6. Unity Progressive 使用讲解
 7. Unity AB引用计数方案讲解
 8. IndirectDraw探讨
-9. 
+9. 浅谈剔除：https://www.bilibili.com/video/BV1RR4y147CN?p=1
+
+🔋**分享**
+1. 浅谈剔除（距离、视锥、PVS、SOC、硬件查询、Hiz、GPUDriven）视频中的鼠标后面看不到了 确实难理解可以加微信wlxklyh探讨：https://www.bilibili.com/video/BV1RR4y147CN?p=1
 
 :coffee:**线下吃饭、喝奶茶、闲聊**（如果有兴趣请联系微信 备注 github面基）：
 1. 目前可以约深圳、广州面基。
