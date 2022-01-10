@@ -28,14 +28,15 @@ https://docs.qq.com/mind/DSG1Oc0JNSlR2eFhz<br></br>
 
 🧑‍💻**讨论会** （语音讲解一些游戏开发的知识，或者是源码走读 备注 github讲解）
 1. 软光栅仓库讲解 https://github.com/wlxklyh/SoftRenderer
-2. Unreal SOC代码走读 https://github.com/wlxklyh/awesome-gamedev/tree/main/demo/VS/unrealsoc
-3. Unreal Hiz occlusion 代码走读
-4. Unreal 序列化 反序列化 代码走读
-5. Unreal Lightmass流程代码走读
-6. Unity Progressive 使用讲解
-7. Unity AB引用计数方案讲解
-8. IndirectDraw探讨
-9. 浅谈剔除：https://www.bilibili.com/video/BV1RR4y147CN?p=1
+https://www.bilibili.com/video/BV1B44y1j7mK
+3. Unreal SOC代码走读 https://github.com/wlxklyh/awesome-gamedev/tree/main/demo/VS/unrealsoc
+4. Unreal Hiz occlusion 代码走读
+5. Unreal 序列化 反序列化 代码走读
+6. Unreal Lightmass流程代码走读
+7. Unity Progressive 使用讲解
+8. Unity AB引用计数方案讲解
+9. IndirectDraw探讨
+10. 浅谈剔除：https://www.bilibili.com/video/BV1RR4y147CN?p=1
 
 🔋**分享**
 1. 浅谈剔除（距离、视锥、PVS、SOC、硬件查询、Hiz、GPUDriven）视频中的鼠标后面看不到了 确实难理解可以加微信wlxklyh探讨：https://www.bilibili.com/video/BV1RR4y147CN?p=1
