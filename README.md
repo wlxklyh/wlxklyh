@@ -28,7 +28,7 @@ https://docs.qq.com/mind/DSG1Oc0JNSlR2eFhz<br></br>
 
 🧑‍💻**讨论会** （语音讲解一些游戏开发的知识，或者是源码走读 备注 github讲解）
 1. 软光栅仓库讲解 https://github.com/wlxklyh/SoftRenderer
-https://www.bilibili.com/video/BV1B44y1j7mK
+https://www.bilibili.com/video/BV1hF411v7Ue/
 3. Unreal SOC代码走读 https://github.com/wlxklyh/awesome-gamedev/tree/main/demo/VS/unrealsoc
 4. Unreal Hiz occlusion 代码走读
 5. Unreal 序列化 反序列化 代码走读
