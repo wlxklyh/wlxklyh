@@ -1,6 +1,5 @@
  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wlxklyh.mainpage&title=Visitors) <br></br>
 ### :loudspeaker:简介
-👨‍💻腾讯天美高级游戏客户端开发 网易资深游戏引擎开发 <br></br>
 
 :hearts:兴趣和领域（图形学、Unreal、Unity）<br></br>
 
@@ -14,7 +13,7 @@ https://docs.qq.com/mind/DSG1Oc0JNSlR2eFhz<br></br>
 
 :telephone_receiver:**模拟面试服务**（如果有兴趣请联系微信 备注 github模拟面试）：
 1. 此服务更多是交流 互相探讨 不喜勿喷。
-2. 在腾讯、网易做过，有点经验。
+
 <br></br>
 1️⃣📞:第一位同学咨询了工作0-1年的招聘要求，并跟他说了一些周围人的经历鼓励他持续学习，在毕业后及时调整职业规划，什么时候都不会晚，持续学习的人始终都会有好的回报。
 <br></br>
@@ -42,7 +41,7 @@ https://www.bilibili.com/video/BV1hF411v7Ue/
 1. 浅谈剔除（距离、视锥、PVS、SOC、硬件查询、Hiz、GPUDriven）视频中的鼠标后面看不到了 确实难理解可以加微信wlxklyh探讨：https://www.bilibili.com/video/BV1RR4y147CN?p=1
 
 :coffee:**线下吃饭、喝奶茶、闲聊**（如果有兴趣请联系微信 备注 github面基）：
-1. 目前可以约深圳、广州面基。
+1. 目前可以约线下面基。
 2. 互相探讨 不喜勿喷。
 
 
