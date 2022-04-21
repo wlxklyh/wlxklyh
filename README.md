@@ -40,7 +40,7 @@ https://www.bilibili.com/video/BV1hF411v7Ue/
 🔋**分享**
 1. 浅谈剔除（距离、视锥、PVS、SOC、硬件查询、Hiz、GPUDriven）视频中的鼠标后面看不到了 确实难理解可以加微信wlxklyh探讨：https://www.bilibili.com/video/BV1RR4y147CN?p=1
 
-:coffee:**线下吃饭、喝奶茶、闲聊**（如果有兴趣请联系微信 备注 github面基）：
+:coffee:**线下吃饭、喝奶茶、喝酒小酌、闲聊**（如果有兴趣请联系微信 备注 github面基）：
 1. 目前可以约线下面基。
 2. 互相探讨 不喜勿喷。
 
