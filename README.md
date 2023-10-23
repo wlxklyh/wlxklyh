@@ -46,7 +46,7 @@ https://www.bilibili.com/video/BV1hF411v7Ue/
 
 
 ### 👋仓库总览
-[![wlxklyh's github stats](https://github-readme-stats.vercel.app/api?username=linyanhou&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/)
+[![wlxklyh's github stats](https://github-readme-stats.vercel.app/api?username=wlxklyh&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/)
 
 ### 👋语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlxklyh&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/wlxklyh/)
